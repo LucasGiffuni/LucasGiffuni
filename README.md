@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Giffuni</h1>
-<h3 align="center">A passionate backend from Uruguay currently working on IBM Uruguay as a Application Developer</h3>
+<h3 align="center">A passionate backend developer from Uruguay currently working on IBM Uruguay as a Application Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasgiffuni" alt="lucasgiffuni" /></a> </p>
 
